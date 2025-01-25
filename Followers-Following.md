@@ -9,7 +9,7 @@ This document outlines an optimized approach for implementing a **followers-foll
 5. Updating counts on follow/unfollow actions
 6. Getting the followers of a user
 7. Getting the users a person is following
-8. Getting the follower & following count
+8. Getting the follower & following counts
 
 ---
 
